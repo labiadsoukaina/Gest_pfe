@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- edited with XMLSpy v2015 rel. 3 sp1 (x64) (http://www.altova.com) by NOUS -->
+<?xml-stylesheet type="text/xsl" href="js/sXSLinterface.xsl"?>
+<PFE xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="C:\wamp\www\Projet_xml\ProjetXSDinterface.xsd">
+	
+	
+
+
+
+
+<projet ID="1"><Etudiant><Nom>ZIDANI</Nom><Prénom>HAFSA</Prénom><Mail>ZIDANI1996@gmail.com</Mail><Tèlèphone>0691812264</Tèlèphone><Option>WMS</Option></Etudiant><Etudiant2><Nom2>soukaina labiad</Nom2><Prénom2></Prénom2><Mail2></Mail2><tel2></tel2><Option2></Option2></Etudiant2><stage><Intitulé></Intitulé><DateDébut></DateDébut><DateFin></DateFin><Organisme><Contacts><Telephone></Telephone><Mail></Mail><Adresse></Adresse></Contacts><Parrain><NomParrain></NomParrain><PrénomParrain></PrénomParrain><Fonction></Fonction><Téléphone></Téléphone><Mail></Mail></Parrain><NomOraganisme></NomOraganisme></Organisme></stage><soutenance><Jury><Encadrants></Encadrants><représentantEntreprise></représentantEntreprise><Examinateur></Examinateur><PrésidentJury></PrésidentJury></Jury><Date></Date><Local></Local></soutenance><Encadrants/><EncadrantInterne><Nom></Nom><Prénom></Prénom><Mail></Mail><Téléphone></Téléphone></EncadrantInterne><EncadrantExterne><Nom></Nom><Prénom></Prénom><Mail></Mail><Téléphone></Téléphone><Fonction></Fonction></EncadrantExterne></projet></PFE>
